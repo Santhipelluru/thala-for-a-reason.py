@@ -1,2 +1,5 @@
-# thala-for-a-reason.py
-print the thala for a reason
+n=int(input())
+if(n==7):
+    print("THALA")
+else:
+    print("SADGE")
